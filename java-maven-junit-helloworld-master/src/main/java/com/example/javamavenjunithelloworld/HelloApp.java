@@ -5,7 +5,7 @@ package com.example.javamavenjunithelloworld;
  * include a sample unit test and an integration test.
  */
 public class HelloApp {
-
+	
 	static int DEFAULT_TIMES = 3;
 
 	static int EXIT_STATUS_PARAMETER_NOT_UNDERSTOOD = 2;
