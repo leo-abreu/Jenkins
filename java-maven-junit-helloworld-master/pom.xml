@@ -44,13 +44,6 @@
       <artifactId>powermock-module-junit4</artifactId>
       <version>2.0.0-beta.5</version>
     </dependency>
-	<!-- https://mvnrepository.com/artifact/org.powermock/powermock-module-testng -->
-	<dependency>
-	  <groupId>org.powermock</groupId>
-	  <artifactId>powermock-module-testng</artifactId>
-	  <version>2.0.0-beta.5</version>
-	  <scope>test</scope>
-	</dependency>
 	<dependency>
 	  <groupId>org.powermock</groupId>
 	  <artifactId>powermock-core</artifactId>
